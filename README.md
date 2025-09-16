@@ -1,4 +1,4 @@
-# C-Projects
+# C-Programming
 
 > C is a powerful, procedural programming language known for its efficiency, portability, and close-to-hardware capabilities.
 
